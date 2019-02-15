@@ -1,1 +1,1 @@
-[GitHub] (https://github.com/robert-d-allen)
+[GitHub](https://github.com/robert-d-allen)
