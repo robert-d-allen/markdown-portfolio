@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Homestead
+2. Hopscotch
+3. Papo
